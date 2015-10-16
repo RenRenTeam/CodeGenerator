@@ -1,6 +1,7 @@
 # Asp.net / C# 代码生成器
 #### DBCommand.config  数据库Sql命令
-_______________
+
+
 ## Assembly 版本
 * Entity.cs
 * DBCommand.config
@@ -11,7 +12,8 @@ _______________
 
 
 Page -> Facade -> ISqlDataAccess -> SqlDataAccess - command - DB
-_______________
+
+
 ## WCF版
 * Entity.cs
 * DBCommand.config
